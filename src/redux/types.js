@@ -1,0 +1,6 @@
+export const INCREMENT = "INCREMENT"
+export const DECREMENT = "DECREMENT"
+export const DELETE = "DELETE"
+export const PLUS10 = "PLUS10"
+export const MINUS10 = "MINUS10"
+export const CUSTOM = "CUSTOM"
